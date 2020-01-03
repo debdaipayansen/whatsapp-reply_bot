@@ -30,5 +30,5 @@ for name in names:
         reply = driver.find_element_by_class_name(
             "_3u328.copyable-text.selectable-text")
         reply.clear()
-        reply.send_keys("Chumu ekta halka koreh")
+        reply.send_keys("Will look to this")
         reply.send_keys(Keys.RETURN)
